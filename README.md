@@ -1,2 +1,4 @@
-# ola mundo
-primeiro repositorio 
+# Olá Mundo
+Primeiro repositorio no GitHub
+
+Repositório criado durante aula ao vivo heheheeheheehe
